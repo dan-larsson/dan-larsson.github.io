@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Familjen Larsson</title>
-    <link>https://dan-larsson.github.io/tags/</link>
+    <link>http://famla.nu/tags/</link>
     <description>Recent content in Tags on Familjen Larsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jan 2020 23:11:00 +0100</lastBuildDate>
     
-	<atom:link href="https://dan-larsson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://famla.nu/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gryta</title>
-      <link>https://dan-larsson.github.io/tags/gryta/</link>
+      <link>http://famla.nu/tags/gryta/</link>
       <pubDate>Fri, 17 Jan 2020 23:11:00 +0100</pubDate>
       
-      <guid>https://dan-larsson.github.io/tags/gryta/</guid>
+      <guid>http://famla.nu/tags/gryta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Röda Linser</title>
-      <link>https://dan-larsson.github.io/tags/r%C3%B6da-linser/</link>
+      <link>http://famla.nu/tags/r%C3%B6da-linser/</link>
       <pubDate>Fri, 17 Jan 2020 23:11:00 +0100</pubDate>
       
-      <guid>https://dan-larsson.github.io/tags/r%C3%B6da-linser/</guid>
+      <guid>http://famla.nu/tags/r%C3%B6da-linser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vegan</title>
-      <link>https://dan-larsson.github.io/tags/vegan/</link>
+      <link>http://famla.nu/tags/vegan/</link>
       <pubDate>Fri, 17 Jan 2020 23:11:00 +0100</pubDate>
       
-      <guid>https://dan-larsson.github.io/tags/vegan/</guid>
+      <guid>http://famla.nu/tags/vegan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formbar färs</title>
-      <link>https://dan-larsson.github.io/tags/formbar-f%C3%A4rs/</link>
+      <link>http://famla.nu/tags/formbar-f%C3%A4rs/</link>
       <pubDate>Thu, 16 Jan 2020 12:31:36 +0100</pubDate>
       
-      <guid>https://dan-larsson.github.io/tags/formbar-f%C3%A4rs/</guid>
+      <guid>http://famla.nu/tags/formbar-f%C3%A4rs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pasta</title>
-      <link>https://dan-larsson.github.io/tags/pasta/</link>
+      <link>http://famla.nu/tags/pasta/</link>
       <pubDate>Thu, 16 Jan 2020 12:31:36 +0100</pubDate>
       
-      <guid>https://dan-larsson.github.io/tags/pasta/</guid>
+      <guid>http://famla.nu/tags/pasta/</guid>
       <description></description>
     </item>
     

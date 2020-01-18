@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasta on Familjen Larsson</title>
-    <link>https://dan-larsson.github.io/tags/pasta/</link>
+    <link>http://famla.nu/tags/pasta/</link>
     <description>Recent content in Pasta on Familjen Larsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jan 2020 12:31:36 +0100</lastBuildDate>
     
-	<atom:link href="https://dan-larsson.github.io/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://famla.nu/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lasagne</title>
-      <link>https://dan-larsson.github.io/recept/lasagne/</link>
+      <link>http://famla.nu/recept/lasagne/</link>
       <pubDate>Thu, 16 Jan 2020 12:31:36 +0100</pubDate>
       
-      <guid>https://dan-larsson.github.io/recept/lasagne/</guid>
+      <guid>http://famla.nu/recept/lasagne/</guid>
       <description>Den här rätten är en av få som går hem hos alla medlemmar i familjen. Därför är den frekvent återkommande till matbordet hos oss. Man kan variera den ganska mycket och den är svår att misslyckas med. Ett säkert kort!
 Färs  1 pkt formbar färs, den behöver inte vara tinad. (Det funkar bra att fylla ut med riven morot om man inte har ett helt paket) 2 gula lökar 4 vitlöksklyftor 2 burkar krossade tomater 0.</description>
     </item>
