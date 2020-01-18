@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artikel on Familjen Larsson</title>
+    <link>http://famla.nu/tags/artikel/</link>
+    <description>Recent content in Artikel on Familjen Larsson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://famla.nu/tags/artikel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Det enda logiska är att välja vegetariskt</title>
+      <link>http://famla.nu/texter/logiskt/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://famla.nu/texter/logiskt/</guid>
+      <description>Vi behandlar vår planet, oss själva och andra djur illa. Det finns dock ett enkelt sätt att minska skadan avsevärt - att konsumera mindre, eller för all del att sluta konsumera, kött- och mejeriprodukter och välja vegetariskt. I Sverige slaktas ca 90 miljoner landdjur och 19 miljarder fiskar fångas varje år. 344 000 mjölkkor producerar 2 932 000 ton mjölk. Det finns inget fysiskt behov av detta i Sverige, eftersom allt som en kött- och mejeribaserad diet ger i form av näring kan fås med en vegetarisk kost.</description>
+    </item>
+    
+  </channel>
+</rss>
