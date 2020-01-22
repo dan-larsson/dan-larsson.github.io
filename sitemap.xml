@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://famla.nu/categories/</loc>
+    <lastmod>2020-01-17T23:11:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://famla.nu/tags/dan/</loc>
     <lastmod>2020-01-17T23:11:00+01:00</lastmod>
   </url>
@@ -19,6 +24,11 @@
   
   <url>
     <loc>http://famla.nu/recept/linsgryta/</loc>
+    <lastmod>2020-01-17T23:11:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/categories/middag/</loc>
     <lastmod>2020-01-17T23:11:00+01:00</lastmod>
   </url>
   
@@ -65,6 +75,10 @@
   <url>
     <loc>http://famla.nu/texter/</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/authors/</loc>
   </url>
   
 </urlset>
