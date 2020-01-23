@@ -4,17 +4,42 @@
   
   <url>
     <loc>http://famla.nu/categories/</loc>
-    <lastmod>2020-01-17T23:11:00+01:00</lastmod>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://famla.nu/tags/dan/</loc>
-    <lastmod>2020-01-17T23:11:00+01:00</lastmod>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/recept/enchiladas/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://famla.nu/</loc>
-    <lastmod>2020-01-17T23:11:00+01:00</lastmod>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/categories/middag/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/tags/pasta/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/recept/spaghetti_alla_norma/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/tags/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,17 +53,7 @@
   </url>
   
   <url>
-    <loc>http://famla.nu/categories/middag/</loc>
-    <lastmod>2020-01-17T23:11:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://famla.nu/tags/r%C3%B6da-linser/</loc>
-    <lastmod>2020-01-17T23:11:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://famla.nu/tags/</loc>
     <lastmod>2020-01-17T23:11:00+01:00</lastmod>
   </url>
   
@@ -54,11 +69,6 @@
   
   <url>
     <loc>http://famla.nu/recept/lasagne/</loc>
-    <lastmod>2020-01-16T12:31:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://famla.nu/tags/pasta/</loc>
     <lastmod>2020-01-16T12:31:36+01:00</lastmod>
   </url>
   
