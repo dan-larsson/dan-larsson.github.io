@@ -1,0 +1,26 @@
+.item-type {
+  font-weight: 100;
+  font-size: 12px;
+  background-color: #eee;
+  padding: .5em 1em;
+  border-radius: .8em;}
+
+  .item-type.type-blogg {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border: 1px solid #bee5eb;}
+
+  .item-type.type-ovrigt {
+    color: #856404;
+    background-color: #fff3cd;
+    border: 1px solid #ffeeba;}
+
+  .item-type.type-recept {
+    color: #155724;
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;}
+
+
+body.type-recept .entry ul {
+  margin:0;
+  list-style-type: none;}
