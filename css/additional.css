@@ -34,3 +34,25 @@
         padding-left: 0px !important;
     }
 }
+
+.type-recept ul {
+  margin:0;
+  list-style-type: none;
+  padding: 0 0 2em 0;}
+
+.type-recept ol {
+    list-style: none;
+    counter-reset: li;
+    padding: 0 0 0 1em;}
+
+    .type-recept ol li::before {
+        content: counter(li); color: red;
+        display: inline-block; 
+        width: 1em; 
+        margin-left: -1.5em;
+        margin-right: 0.5em; 
+        text-align: right; 
+        direction: rtl}
+
+    .type-recept ol li {
+        counter-increment: li}
