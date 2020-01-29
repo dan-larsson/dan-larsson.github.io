@@ -56,3 +56,14 @@
 
     .type-recept ol li {
         counter-increment: li}
+
+.meta {
+  color:#999;
+  font-size: 13px;}
+  .meta .recipe-cooking-time.with-level {
+    display:inline-block;
+    margin-right: .5em;
+    padding-right: .5em;
+    border-right: 1px solid #ccc;
+  }
+
