@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://famla.nu/tags/estimat/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/blogg/estimat/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/tags/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://famla.nu/blogg/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -23,11 +43,6 @@
   </url>
   
   <url>
-    <loc>http://famla.nu/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://famla.nu/categories/middag/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -39,11 +54,6 @@
   
   <url>
     <loc>http://famla.nu/recept/spaghetti_alla_norma/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://famla.nu/tags/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
   

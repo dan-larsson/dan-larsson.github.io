@@ -57,6 +57,27 @@
     .type-recept ol li {
         counter-increment: li}
 
+.type-blogg table {
+  margin-bottom: 1em;
+  overflow: scroll;}
+
+  .type-blogg table th {
+    padding: .5em 1em;
+    border: 1px solid #eee;}
+
+  .type-blogg table td {
+    padding: .5em 1em;
+    border: 1px solid #eee;}
+
+.type-blogg h1,
+.type-blogg h2,
+.type-blogg h3,
+.type-blogg h4,
+.type-blogg h5,
+.type-blogg h6 {
+  margin-left: -.5em;
+}
+
 .meta {
   color:#999;
   font-size: 13px;}
