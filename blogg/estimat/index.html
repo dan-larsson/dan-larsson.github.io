@@ -133,13 +133,13 @@
 <li><a href="#2-anv%C3%A4nd-story-points">Använd Story Points</a></li>
 <li><a href="#3-h%C3%A5ll-backloggen-st%C3%A4dad">Håll backloggen städad</a></li>
 <li><a href="#4-grovestimera-allt">Grovestimera allt</a></li>
-<li><a href="#5-skippa-sub-tasks">Skippa sub-tasks</a></li>
+<li><a href="#5-bryt-inte-ner-tickets-mer-%C3%A4n-n%C3%B6dv%C3%A4ndigt">Bryt inte ner tickets mer än nödvändigt</a></li>
 <li><a href="#6-ha-fler-aspekter-i-%C3%A5tanke-n%C3%A4r-du-estimerar">Ha fler aspekter i åtanke när du estimerar</a></li>
 <li><a href="#7-m%C3%A4t-velocity">Mät velocity</a></li>
 </ol>
 <h2 id="1-definiera-klar">1. Definiera klar</h2>
-<p>En förutsättning för att lyckas är först och främst att man har en tydlig bild av vad som är klart på en teknisk nivå. Man måste i teamet ha definierat, och alla måste vara införstådda med, vad klar betyder. Ett bra sätt är att tillsammans upprätta en lista med krav - en <code>Definition of Done</code> som man har med sig i bakhuvudet eller faktiskt tar fram när man estimerar.</p>
-<h3 id="exempelvis">Exempelvis</h3>
+<p>En förutsättning för att lyckas är först och främst att man har en tydlig bild av vad som är klart på en teknisk nivå. Man måste i teamet ha definierat, och alla måste vara införstådda med, vad klar betyder. Ett bra sätt är att tillsammans upprätta en lista med krav - en <code>Definition of Done</code> som man har med sig i bakhuvudet eller faktiskt tar fram när man estimerar. Har man inte en gemensam bild av vad klar innebär betyder estimatet olika saker för olika personer. Även när man har en gemensam bild så är det lätt att glömma viktiga delar för när man sitter och groomar och estimerar försöker man föreställa sig och förstå flera olika mer eller mindre teoretiska system. Det innebär mycket context switching och det innebär att hjärnan måste jobba på. Då kan det vara en bra hjälp att ha en DoD som man kikar på.</p>
+<h3 id="exempel-på-dod">Exempel på DoD</h3>
 <ul>
 <li>Det ska finnas enhetstester som går igenom</li>
 <li>Koden ska vara granskad av minst 1 annan utvecklare</li>
@@ -147,16 +147,15 @@
 <li>Produktägaren ska ha godkänt lösningen</li>
 <li>Etc.</li>
 </ul>
-<p>Har alla samma bild av när en uppgift är klar menar alla samma sak när de uppskattar hur mycket arbete det är.</p>
-<p>Det finns mängder med <a href="http://www.google.com/search?q=Definition+of+Done">texter om DoD</a> och hur man kan ta fram det. Läs på och ta fram.</p>
+<p>Mitt råd är alltså att tillsammans konkret definiera vad klar innebär för er och ha det till hands när ni estimerar.</p>
 <h2 id="2-använd-story-points">2. Använd Story Points</h2>
-<p>Jag har provat att uppskatta i timmar, med <code>Story Points</code> och <a href="http://www.google.com/search?q=%23NoEstimates">inte alls</a>. Utan tvekan är Story Points det jag tycker funkar bäst. Det är inte bara det att estimaten hamnar närmast sanningen, det ger mig även ett värde att mäta, följa och förbättra - <code>Velocity</code>. Jag återkommer till det <a href="#7-m%C3%A4t-velocity">lite senare</a>.</p>
+<p>Jag har provat att uppskatta i timmar, med <code>Story Points</code> och <a href="http://www.google.com/search?q=%23NoEstimates">inte alls</a>. Jag sticker nog inte ut hakan när jag säger att Story Points funkar bäst. Det är inte bara det att estimaten hamnar närmast sanningen, det ger mig även ett värde att mäta, följa och förbättra - <code>Velocity</code>. Jag återkommer till det <a href="#7-m%C3%A4t-velocity">lite senare</a>.</p>
 <h2 id="3-håll-backloggen-städad">3. Håll backloggen städad</h2>
 <p>Lägg inte allt i backloggen. Ha ett ställe där allting hamnar först. När det finns ett beslut på att uppgiften ska utföras inom en rimlig framtid och det finns tillräkligt med material för att börja arbeta med uppgiften, lyft då in den i backloggen. Jag tycker inte nödvändigtvis att det alltid måste finnas skisser eller wireframes från start, det är såklart jättebra, men man måste kunna arbeta lite parallellt med UX &amp; Design för att vara snabbfotade. Man får ha lite känsla för vad som fungerar i teamet och projektet.</p>
 <h2 id="4-grovestimera-allt">4. Grovestimera allt</h2>
-<p>I samband med att en uppgift lyfts in i backloggen ge den ett estimat. Alla tickets i backlogggebn ska ha ett estimat av typen Small, Medium eller Large, sk. <code>T-shirt Sizes</code>. Efter hand, när ni har groomat dessa, kommer de ha riktiga estimat som kan användas för att få ett hum om vad Medium faktiskt innebär. Det betyder att du när som helst kan ge ett estimat på allt som finns i backloggen.</p>
-<h2 id="5-skippa-sub-tasks">5. Skippa sub tasks</h2>
-<p>Bryt ner problemen till mindre problem men skippa Sub-tasks. Bryt istället ner till egna separata Stories. På så sätt minimerar risken att delar av en helhet hamnar i olika sprintar, det är förstås oundvikligt att det händer ibland ändå. Dels komplicerar det saker när man ska estimeras och räkna på velocity och dels vill jag i den mån det är möjligt kunna produktionssätta en uppgift inom en sprint. Hellre lite större stories med mer info än sub tasks är mitt råd.</p>
+<p>I samband med att en uppgift lyfts in i backloggen ge den ett estimat. Alla tickets i backlogggebn ska ha ett estimat av typen Small, Medium eller Large, sk. <code>T-shirt Sizes</code>. Efter hand, när ni har groomat dessa, kommer de ha riktiga estimat som kan användas för att få ett hum om vad Medium faktiskt innebär. Det betyder att du när som helst kan ge ett estimat, ett spann från worst case till best case, på allt som finns i backloggen.</p>
+<h2 id="5-bryt-inte-ner-tickets-mer-än-nödvändigt">5. Bryt inte ner tickets mer än nödvändigt</h2>
+<p>Bryt inte ner tickets mer än nödvändigt. Det skapar extraarbete och kan komplicera estimeringen mer än det hjälper. En story ska helst gå att lansera för sig själv och inom en sprint. Det som händer om vi bryter ner en story för mycket är att arbetet riskerar i högre grad att spridas ut över fler sprintar, delar som långsiktigt är jätteviktiga riskerar att prioriteras ner och försvinna. Vi riskerar att lägga tid på att detaljstyra en implementation i grupp vilket kan vara ett slöseri med resuserer och lämnar lite utrymme för kreativitet för utvecklaren som ska implementera. Hellre lite större Stories med mer info än Sub-tasks är mitt råd.</p>
 <h2 id="6-ha-fler-aspekter-i-åtanke-när-du-estimerar">6. Ha fler aspekter i åtanke när du estimerar</h2>
 <p>Det är vanligt att man använder <code>Fibonacci</code> när man estimerar med Story Points. En person uppskattar 3, en 5 och en 8 sedan diskuterar man och kommer överens om en siffra. Den som gissade på 3 tänkte kanske inte på alla tester som måste skrivas och utföras och den som tyckte att 5 var rimligt tänkte inte på backendarbetet. Detta kan komma fram vid den efterföljande diskussionen men det kan också missas. Ett mer effektivt sätt i min mening är att från början dela in uppgiften i områden som passar ditt arbete och organisation och estimera dessa var för sig.</p>
 <h3 id="här-är-indelningen-jag-använder">Här är indelningen jag använder</h3>
