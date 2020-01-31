@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dan Larsson</copyright>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://famla.nu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dan</title>
+      <link>http://famla.nu/tags/dan/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://famla.nu/tags/dan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Röda Linser</title>
+      <link>http://famla.nu/tags/r%C3%B6da-linser/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://famla.nu/tags/r%C3%B6da-linser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soppa</title>
+      <link>http://famla.nu/tags/soppa/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://famla.nu/tags/soppa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimat</title>
@@ -18,15 +45,6 @@
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://famla.nu/tags/estimat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dan</title>
-      <link>http://famla.nu/tags/dan/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://famla.nu/tags/dan/</guid>
       <description></description>
     </item>
     
@@ -45,15 +63,6 @@
       <pubDate>Fri, 17 Jan 2020 23:11:00 +0100</pubDate>
       
       <guid>http://famla.nu/tags/gryta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Röda Linser</title>
-      <link>http://famla.nu/tags/r%C3%B6da-linser/</link>
-      <pubDate>Fri, 17 Jan 2020 23:11:00 +0100</pubDate>
-      
-      <guid>http://famla.nu/tags/r%C3%B6da-linser/</guid>
       <description></description>
     </item>
     

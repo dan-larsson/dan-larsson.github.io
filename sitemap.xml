@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://famla.nu/tags/estimat/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+    <loc>http://famla.nu/categories/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/tags/dan/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://famla.nu/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/recept/linssoppa/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/categories/middag/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/tags/r%C3%B6da-linser/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/tags/soppa/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/tags/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://famla.nu/tags/estimat/</loc>
     <lastmod>2020-01-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,32 +53,12 @@
   </url>
   
   <url>
-    <loc>http://famla.nu/tags/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://famla.nu/blogg/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://famla.nu/categories/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://famla.nu/tags/dan/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://famla.nu/recept/enchiladas/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://famla.nu/categories/middag/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,11 +79,6 @@
   
   <url>
     <loc>http://famla.nu/recept/linsgryta/</loc>
-    <lastmod>2020-01-17T23:11:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://famla.nu/tags/r%C3%B6da-linser/</loc>
     <lastmod>2020-01-17T23:11:00+01:00</lastmod>
   </url>
   

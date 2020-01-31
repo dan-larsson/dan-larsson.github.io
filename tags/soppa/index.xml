@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Röda Linser on Familjen Larsson</title>
-    <link>http://famla.nu/tags/r%C3%B6da-linser/</link>
-    <description>Recent content in Röda Linser on Familjen Larsson</description>
+    <title>Soppa on Familjen Larsson</title>
+    <link>http://famla.nu/tags/soppa/</link>
+    <description>Recent content in Soppa on Familjen Larsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dan Larsson</copyright>
     <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://famla.nu/tags/r%C3%B6da-linser/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://famla.nu/tags/soppa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>http://famla.nu/recept/linssoppa/</guid>
       <description>Ingredienser  1 gul lök 150 g röda linser 2 vitlöksklyftor 1 msk rapsolja 1 tsk spiskummin 1 tsk garam masala 1 tsk gurkmeja 2 msk tomatpuré 2 tsk balsamvinäger 1 msk grönsaksfond 4 potatisar 100 g körsbärstomater 1 msk hackad koriander Salt Cayennepeppar  Gör såhär  Hacka lök och vitlök fint och fräs i oljan en stund.</description>
-    </item>
-    
-    <item>
-      <title>Linsgryta</title>
-      <link>http://famla.nu/recept/linsgryta/</link>
-      <pubDate>Fri, 17 Jan 2020 23:11:00 +0100</pubDate>
-      
-      <guid>http://famla.nu/recept/linsgryta/</guid>
-      <description>En mångsidig favorit hos mig! Lätt att variera och även om listan med ingredienser känns lång så är det en otroligt lättlagad rätt som går snabbt att laga.</description>
     </item>
     
   </channel>

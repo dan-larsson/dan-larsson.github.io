@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dan Larsson</copyright>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://famla.nu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linssoppa</title>
+      <link>http://famla.nu/recept/linssoppa/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://famla.nu/recept/linssoppa/</guid>
+      <description>Ingredienser  1 gul lök 150 g röda linser 2 vitlöksklyftor 1 msk rapsolja 1 tsk spiskummin 1 tsk garam masala 1 tsk gurkmeja 2 msk tomatpuré 2 tsk balsamvinäger 1 msk grönsaksfond 4 potatisar 100 g körsbärstomater 1 msk hackad koriander Salt Cayennepeppar  Gör såhär  Hacka lök och vitlök fint och fräs i oljan en stund.</description>
+    </item>
     
     <item>
       <title>Mina tips för att lyckas med estimaten</title>
