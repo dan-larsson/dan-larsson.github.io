@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCRUM on Familjen Larsson</title>
+    <link>http://famla.nu/tags/scrum/</link>
+    <description>Recent content in SCRUM on Familjen Larsson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Dan Larsson</copyright>
+    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://famla.nu/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mina tips för att lyckas med estimaten</title>
+      <link>http://famla.nu/blogg/estimat/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://famla.nu/blogg/estimat/</guid>
+      <description>Jag har arbetat med att tidsestimera webbutvecklingsprojekt i ett antal år och det är svårt. Jag stämmer in i kören som säger det inte nog går att understryka att det är just uppskattningar det handlar om.</description>
+    </item>
+    
+  </channel>
+</rss>
