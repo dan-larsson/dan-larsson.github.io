@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Familjen Larsson</title>
-    <link>http://famla.nu/</link>
-    <description>Recent content on Familjen Larsson</description>
+    <title>Vego on Familjen Larsson</title>
+    <link>http://famla.nu/tags/vego/</link>
+    <description>Recent content in Vego on Familjen Larsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dan Larsson</copyright>
     <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://famla.nu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://famla.nu/tags/vego/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -55,15 +55,6 @@
       
       <guid>http://famla.nu/recept/lasagne/</guid>
       <description>Den här rätten är en av få som går hem hos alla medlemmar i familjen. Därför är den frekvent återkommande till matbordet hos oss. Man kan variera den ganska mycket och den är svår att misslyckas med.</description>
-    </item>
-    
-    <item>
-      <title>Det enda logiska är att välja vegetariskt</title>
-      <link>http://famla.nu/blogg/logiskt/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://famla.nu/blogg/logiskt/</guid>
-      <description>Vi behandlar vår planet, oss själva och andra djur illa. Det finns dock ett enkelt sätt att minska skadan avsevärt - att konsumera mindre, eller för all del att sluta konsumera, kött- och mejeriprodukter och välja vegetariskt.</description>
     </item>
     
   </channel>
